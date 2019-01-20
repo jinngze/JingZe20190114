@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+ <!--   圆角四个角的圆弧弧度-->
+    <corners android:radius="10px"/>
+
+    <!-- 以下是边框属性-->
+   <stroke
+       android:width="1px"
+       android:color="#999999"
+       />
+
+</shape>

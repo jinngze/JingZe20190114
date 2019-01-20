@@ -1,0 +1,1 @@
+include ':app', ':mai', ':shop20190116', ':shop2', ':dian2', ':duo'
